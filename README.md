@@ -1,4 +1,6 @@
-# STAR-HUB-V1local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+# STAR-HUBV1
+
+-V1local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("STAR HUB V1.0.0", "DarkTheme")
 
 -- MAIN --
